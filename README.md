@@ -1,2 +1,2 @@
-# [giuko.github.io](https://giuko.github.io/portfolio_webpage/src/index.html)
-It is possible to visit the site at [giuko.github.io](https://giuko.github.io/portfolio_webpage/src/index.html).
+# [giuko.github.io](https://giuko.github.io/)
+It is possible to visit the site at [giuko.github.io](https://giuko.github.io/).
