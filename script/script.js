@@ -68,12 +68,11 @@ const projectData = {
         title: 'DLX Processor',
         date: 'Academic Year 2024/2025',
         description: 'Full implementation of a pipelined DLX processor architecture in VHDL.',
-        details: `Complete implementation of the DLX (Deluxe) RISC processor with a 5-stage pipeline. The project included all major components: instruction fetch, decode, execute, memory access, and write-back stages, along with hazard detection and forwarding logic.`,
+        details: `Complete implementation of the DLX RISC processor with a 5-stage pipeline. The project included all major components: instruction fetch, decode, execute, memory access, and write-back stages, along with hazard detection and forwarding logic.`,
         features: [
             '5-stage pipeline implementation (IF, ID, EX, MEM, WB)',
             'Hazard detection',
             'Branch prediction logic at decode stage',
-            'Complete instruction set support'
         ],
         technologies: ['VHDL', 'CPU Architecture', 'QuestaSIM', 'Bash', 'Digital Design']
     },
